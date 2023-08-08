@@ -6,7 +6,7 @@
 # Functionalities:
 This project have different formatting
 
-textcolor,fillcolor,alignment, cut, copy, paste<br>
-we can save our excel file<br>
-we can add/delete sheeet<br>
-add new file and also open the old saved one
+* textcolor,fillcolor,alignment, cut, copy, paste<br>
+* we can save our excel file<br>
+* we can add/delete sheeet<br>
+* add new file and also open the old saved one
