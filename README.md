@@ -8,5 +8,5 @@ This project have different formatting
 
 * textcolor,fillcolor,alignment, cut, copy, paste<br>
 * we can save our excel file<br>
-* we can add/delete sheeet<br>
+* we can add/delete sheet<br>
 * add new file and also open the old saved one
