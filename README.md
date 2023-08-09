@@ -3,10 +3,9 @@
 <h3 align=center> :smile: This is a  <strong>MS-Excel Clone</strong> having some functionality like MS-Excel :smile: </h3>
 <p align=center>Visit the website and try it once https://ms-excel.aggarwalsejal.com/ :heart:</p>
 
-# Functionalities:
-This project have different formatting
+# :page_facing_up: Functionalities:
 
-* text color,fill color, alignment, cut, copy, paste<br>
+* text color, fill color, alignment, cut, copy, paste<br>
 * we can save our excel file<br>
 * we can add/delete sheet<br>
 * add new file and also open the old saved one
