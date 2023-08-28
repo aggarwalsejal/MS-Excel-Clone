@@ -9,3 +9,4 @@
 * we can save our excel file<br>
 * we can add/delete sheet<br>
 * add new file and also open the old saved one
+* cycle detection using the Graph algorithm
