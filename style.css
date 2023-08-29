@@ -11,6 +11,7 @@ body {
     display: flex;
     justify-content: center;
     color: #f1f2f6;
+    align-items: flex-end;
 }
 
 .page-actions-cont {
@@ -129,7 +130,7 @@ body {
 }
 
 .grid-cont {
-    height: calc( 100vh - 3rem - 3rem - 2rem - 3rem -3rem );
+    height: calc( 100vh - 3rem - 3rem - 2rem - 3rem );
     position: relative;
     overflow: scroll;
     background-color: #ecf0f1;
