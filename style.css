@@ -147,13 +147,14 @@ body {
     position: sticky;
     top: 2rem;
     left: 0;
+     z-index: 4;
 }
 .address-row-cont {
     display: flex;
     position: sticky;
     top: 0;
     left: 2rem;
-    z-index: 4;
+   
 }
 .cells-cont {
     position: absolute;
