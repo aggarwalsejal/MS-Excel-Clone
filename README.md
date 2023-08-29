@@ -6,7 +6,9 @@
 # :page_facing_up: Functionalities:
 
 * text color, fill color, alignment, cut, copy, paste<br>
-* we can save our excel file<br>
+* we can save our Excel file<br>
 * we can add/delete sheet<br>
-* add new file and also open the old saved one
+* add a new file and also open the old saved one
 * cycle detection using the Graph algorithm
+* we can trace the cycle formation cells with the help of colors to change them and remove the cycle
+* formula can be inserted within the small bracket () where each value is separated by space in the formula bar to evaluate an inserted formula
