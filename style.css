@@ -147,7 +147,6 @@ body {
     position: sticky;
     top: 2rem;
     left: 0;
-     z-index: 4;
 }
 .address-row-cont {
     display: flex;
