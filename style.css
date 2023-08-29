@@ -9,7 +9,8 @@ body {
     height: 3rem;
     background-color: #218c74;
     display: flex;
-    align-items: center;
+    justify-content: center;
+    color: #f1f2f6;
 }
 
 .page-actions-cont {
