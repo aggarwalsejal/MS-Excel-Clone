@@ -140,7 +140,7 @@ body {
     height: 2rem;
     width: 2rem;
     background-color: #747d8c;
-    position: fixed;
+    position: sticky;
     z-index: 4;
 }
 .address-col-cont {
@@ -153,6 +153,7 @@ body {
     position: sticky;
     top: 0;
     left: 2rem;
+    z-index: 4;
 }
 .cells-cont {
     position: absolute;
