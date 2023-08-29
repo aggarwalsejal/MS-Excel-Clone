@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 .heading{
-    height: 3rem;
+    height: 1rem;
     background-color: #218c74;
     display: flex;
     justify-content: center;
@@ -140,7 +140,7 @@ body {
     height: 2rem;
     width: 2rem;
     background-color: #747d8c;
-    position: sticky;
+    position: fixed;
     z-index: 4;
 }
 .address-col-cont {
@@ -153,7 +153,6 @@ body {
     position: sticky;
     top: 0;
     left: 2rem;
-    z-index: 4;
 }
 .cells-cont {
     position: absolute;
